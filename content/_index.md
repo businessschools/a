@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Business Schools Jobs&nbsp;<br class="sm:hx-block hx-hidden" />for Empowering Higher&nbsp;<br class="sm:hx-block hx-hidden" />Education
+  Business Schools Jobs&nbsp;<br class="sm:hx-block hx-hidden" />for Empowering Higher Education
 {{< /hextra/hero-headline >}}
 </div>
 
