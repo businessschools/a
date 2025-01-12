@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: Business Schools Jobs
 layout: hextra-home
 ---
 
