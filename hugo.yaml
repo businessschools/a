@@ -4,14 +4,6 @@ title: My New Hugo Site
 
 theme: hextra
 
-module:
-  imports:
-    - path: hextra
-      disable: false
-    - path: github.com/gohugoio/hugo-mod-bootstrap-scss/v5
-      disable: false
-
-
 enableRobotsTXT: true
 enableGitInfo: true
 # enableEmoji: false
