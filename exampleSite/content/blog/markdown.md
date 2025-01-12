@@ -11,7 +11,7 @@ authors:
 tags:
   - Markdown
   - Example
-  - Guide
+  - Guidea
 excludeSearch: true
 ---
 
